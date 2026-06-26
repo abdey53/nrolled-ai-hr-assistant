@@ -29,7 +29,7 @@ function Home() {
   setInput("");
 
   try {
-    const response = await fetch("http://127.0.0.1:8000/chat", {
+    const response = await fetch("https://nrolled-ai-hr-assistant.onrender.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
