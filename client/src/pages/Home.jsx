@@ -29,7 +29,7 @@ function Home() {
   setInput("");
 
   try {
-    const response = await fetch("https://nrolled-ai-hr-assistant.onrender.com", {
+    const response = await fetch("https://nrolled-ai-hr-assistant.onrender.com/chat", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
