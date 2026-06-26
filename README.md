@@ -3,6 +3,8 @@
 An AI-powered HR chatbot built with **React**, **FastAPI**, and **Groq Llama 3.3**. The assistant provides quick and accurate responses to HR-related questions, including leave policies, payroll, attendance, onboarding, recruitment, and workforce management.
 
 ---
+<img width="949" height="416" alt="image" src="https://github.com/user-attachments/assets/4304447e-4ff8-4e45-b50e-0779a76a16b5" />
+
 
 ## 🚀 Live Demo
 
