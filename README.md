@@ -9,7 +9,7 @@ An AI-powered HR chatbot built with **React**, **FastAPI**, and **Groq Llama 3.3
 ## 🚀 Live Demo
 
 **Frontend (Vercel)**
-https://nrolled-ai-hr-assistant-6hwuq9qlw-abdey-alis-projects.vercel.app
+https://vercel.com/abdey-alis-projects/nrolled-ai-hr-assistant
 
 **Backend API (Render)**
 https://nrolled-ai-hr-assistant.onrender.com
